@@ -1,1 +1,2 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=rintim&theme=chartreuse-light&show_icons=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
